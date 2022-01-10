@@ -1,5 +1,5 @@
 # MineSweeper
-A GUI-version mine sweeper game. <br>
-Smaller logo: ![won image](./images/won.png)
+A GUI-version mine sweeper game. <br> <br>
+![won image](./images/won.png)
 &nbsp;&nbsp;
-Smaller logo: ![lost image](./images/lost.png)
+![lost image](./images/lost.png)
